@@ -17,7 +17,7 @@ alt="omkar" height="30"/></a></>
 [ <a href="https://courageous-panda-a97c46.netlify.app/" target="blank">Live</a> ]
   
   (2) Inspired from Interntheory.com: 
-[ <a href="https://github.com/Shravankumar1234/INTERNTHEORY-CLONE" target="blank">Code</a> ]
+[ <a href="https://github.com/mayur-ms-2310/InterntheoryProject.git" target="blank">Code</a> ]
 [ <a href="https://superlative-sprite-7cfce0.netlify.app/" target="blank">Live</a> ]
   
   (3) Inspired from bigbasket.com: 
