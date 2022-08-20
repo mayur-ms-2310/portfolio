@@ -462,14 +462,14 @@ a.btn:active{
     border-radius: 2%;
     border: 1px solid #dd9a05;
     height: 20rem;
-    width: 28rem;
+    width: 30rem;
     margin: 2px auto;
     transition: all 300ms ease-in-out;
 
 }
 .project .img-cover img {
     height: 100%;
-    object-fit: cover;
+    object-fit: fill;
 }
 .project h2{
     font-size: 1.8rem;
